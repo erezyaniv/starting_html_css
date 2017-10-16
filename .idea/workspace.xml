@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e544537f-7d75-41af-8b7e-ef60630f57ce" name="Default" comment="" />
+    <list default="true" id="e544537f-7d75-41af-8b7e-ef60630f57ce" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/esentials_tags/01_paragraph_element/index.html" afterPath="$PROJECT_DIR$/esentials_tags/01_paragraph_element/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/esentials_tags/02_heading_elements/index.html" afterPath="$PROJECT_DIR$/esentials_tags/02_heading_elements/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/esentials_tags/03_unordered_list_element/index.html" afterPath="$PROJECT_DIR$/esentials_tags/03_unordered_list_element/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/esentials_tags/04_ordered_list_element/index.html" afterPath="$PROJECT_DIR$/esentials_tags/04_ordered_list_element/index.html" />
+    </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -15,45 +20,40 @@
   <component name="FileEditorManager">
     <leaf>
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/essentials_tags/01_paragraph_element/index.html">
+        <entry file="file://$PROJECT_DIR$/esentials_tags/01_paragraph_element/index.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="153">
-              <caret line="8" column="223" lean-forward="false" selection-start-line="8" selection-start-column="223" selection-end-line="8" selection-end-column="223" />
+              <caret line="8" column="157" lean-forward="true" selection-start-line="8" selection-start-column="157" selection-end-line="8" selection-end-column="157" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/essentials_tags/02_heading_elements/index.html">
+        <entry file="file://$PROJECT_DIR$/esentials_tags/02_heading_elements/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="425">
-              <caret line="11" column="226" lean-forward="false" selection-start-line="11" selection-start-column="226" selection-end-line="11" selection-end-column="226" />
-              <caret line="15" column="214" lean-forward="false" selection-start-line="15" selection-start-column="214" selection-end-line="15" selection-end-column="214" />
-              <caret line="13" column="230" lean-forward="false" selection-start-line="13" selection-start-column="230" selection-end-line="13" selection-end-column="230" />
-              <caret line="9" column="234" lean-forward="false" selection-start-line="9" selection-start-column="234" selection-end-line="9" selection-end-column="234" />
-              <caret line="17" column="242" lean-forward="false" selection-start-line="17" selection-start-column="242" selection-end-line="17" selection-end-column="242" />
-              <caret line="19" column="237" lean-forward="false" selection-start-line="19" selection-start-column="237" selection-end-line="19" selection-end-column="237" />
+            <state relative-caret-position="221">
+              <caret line="11" column="152" lean-forward="true" selection-start-line="11" selection-start-column="152" selection-end-line="11" selection-end-column="152" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/essentials_tags/03_unordered_list_element/index.html">
+        <entry file="file://$PROJECT_DIR$/esentials_tags/03_unordered_list_element/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
-              <caret line="17" column="14" lean-forward="false" selection-start-line="17" selection-start-column="14" selection-end-line="17" selection-end-column="14" />
+            <state relative-caret-position="187">
+              <caret line="11" column="10" lean-forward="false" selection-start-line="11" selection-start-column="10" selection-end-line="11" selection-end-column="10" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/essentials_tags/04_ordered_list_element/index.html">
+        <entry file="file://$PROJECT_DIR$/esentials_tags/04_ordered_list_element/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="18" column="14" lean-forward="false" selection-start-line="18" selection-start-column="14" selection-end-line="18" selection-end-column="14" />
+            <state relative-caret-position="187">
+              <caret line="11" column="10" lean-forward="true" selection-start-line="11" selection-start-column="10" selection-end-line="11" selection-end-column="10" />
               <folding />
             </state>
           </provider>
@@ -79,6 +79,10 @@
         <option value="$PROJECT_DIR$/essentials_tags/unordered_list_element/index.html" />
         <option value="$PROJECT_DIR$/essentials_tags/03_unordered_list_element/index.html" />
         <option value="$PROJECT_DIR$/essentials_tags/04_ordered_list_element/index.html" />
+        <option value="$PROJECT_DIR$/esentials_tags/01_paragraph_element/index.html" />
+        <option value="$PROJECT_DIR$/esentials_tags/02_heading_elements/index.html" />
+        <option value="$PROJECT_DIR$/esentials_tags/03_unordered_list_element/index.html" />
+        <option value="$PROJECT_DIR$/esentials_tags/04_ordered_list_element/index.html" />
       </list>
     </option>
   </component>
@@ -121,18 +125,30 @@
             <path>
               <item name="starting_html_css" type="b2602c69:ProjectViewProjectNode" />
               <item name="starting_html_css" type="462c0819:PsiDirectoryNode" />
-              <item name="essentials_tags" type="462c0819:PsiDirectoryNode" />
+              <item name="esentials_tags" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="starting_html_css" type="b2602c69:ProjectViewProjectNode" />
               <item name="starting_html_css" type="462c0819:PsiDirectoryNode" />
-              <item name="essentials_tags" type="462c0819:PsiDirectoryNode" />
+              <item name="esentials_tags" type="462c0819:PsiDirectoryNode" />
+              <item name="01_paragraph_element" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="starting_html_css" type="b2602c69:ProjectViewProjectNode" />
+              <item name="starting_html_css" type="462c0819:PsiDirectoryNode" />
+              <item name="esentials_tags" type="462c0819:PsiDirectoryNode" />
+              <item name="02_heading_elements" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="starting_html_css" type="b2602c69:ProjectViewProjectNode" />
+              <item name="starting_html_css" type="462c0819:PsiDirectoryNode" />
+              <item name="esentials_tags" type="462c0819:PsiDirectoryNode" />
               <item name="03_unordered_list_element" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="starting_html_css" type="b2602c69:ProjectViewProjectNode" />
               <item name="starting_html_css" type="462c0819:PsiDirectoryNode" />
-              <item name="essentials_tags" type="462c0819:PsiDirectoryNode" />
+              <item name="esentials_tags" type="462c0819:PsiDirectoryNode" />
               <item name="04_ordered_list_element" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -178,9 +194,8 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="300" y="92" width="1521" height="995" extended-state="0" />
-    <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25354013" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25354013" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -242,6 +257,38 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="306">
           <caret line="18" column="14" lean-forward="false" selection-start-line="18" selection-start-column="14" selection-end-line="18" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/esentials_tags/01_paragraph_element/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="8" column="157" lean-forward="true" selection-start-line="8" selection-start-column="157" selection-end-line="8" selection-end-column="157" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/esentials_tags/02_heading_elements/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="11" column="152" lean-forward="true" selection-start-line="11" selection-start-column="152" selection-end-line="11" selection-end-column="152" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/esentials_tags/03_unordered_list_element/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="10" lean-forward="false" selection-start-line="11" selection-start-column="10" selection-end-line="11" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/esentials_tags/04_ordered_list_element/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="10" lean-forward="true" selection-start-line="11" selection-start-column="10" selection-end-line="11" selection-end-column="10" />
           <folding />
         </state>
       </provider>
