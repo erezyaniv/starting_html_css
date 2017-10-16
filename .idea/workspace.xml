@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e544537f-7d75-41af-8b7e-ef60630f57ce" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/esentials_tags/01_paragraph_element/index.html" afterPath="$PROJECT_DIR$/esentials_tags/01_paragraph_element/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/esentials_tags/02_heading_elements/index.html" afterPath="$PROJECT_DIR$/esentials_tags/02_heading_elements/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/esentials_tags/03_unordered_list_element/index.html" afterPath="$PROJECT_DIR$/esentials_tags/03_unordered_list_element/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/esentials_tags/04_ordered_list_element/index.html" afterPath="$PROJECT_DIR$/esentials_tags/04_ordered_list_element/index.html" />
-    </list>
+    <list default="true" id="e544537f-7d75-41af-8b7e-ef60630f57ce" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -49,11 +44,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/esentials_tags/04_ordered_list_element/index.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="187">
               <caret line="11" column="10" lean-forward="true" selection-start-line="11" selection-start-column="10" selection-end-line="11" selection-end-column="10" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/emmet/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -83,6 +88,7 @@
         <option value="$PROJECT_DIR$/esentials_tags/02_heading_elements/index.html" />
         <option value="$PROJECT_DIR$/esentials_tags/03_unordered_list_element/index.html" />
         <option value="$PROJECT_DIR$/esentials_tags/04_ordered_list_element/index.html" />
+        <option value="$PROJECT_DIR$/emmet/index.html" />
       </list>
     </option>
   </component>
@@ -93,8 +99,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="300" />
-    <option name="y" value="92" />
+    <option name="x" value="347" />
+    <option name="y" value="384" />
     <option name="width" value="1521" />
     <option name="height" value="995" />
   </component>
@@ -125,31 +131,12 @@
             <path>
               <item name="starting_html_css" type="b2602c69:ProjectViewProjectNode" />
               <item name="starting_html_css" type="462c0819:PsiDirectoryNode" />
-              <item name="esentials_tags" type="462c0819:PsiDirectoryNode" />
+              <item name="emmet" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="starting_html_css" type="b2602c69:ProjectViewProjectNode" />
               <item name="starting_html_css" type="462c0819:PsiDirectoryNode" />
               <item name="esentials_tags" type="462c0819:PsiDirectoryNode" />
-              <item name="01_paragraph_element" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="starting_html_css" type="b2602c69:ProjectViewProjectNode" />
-              <item name="starting_html_css" type="462c0819:PsiDirectoryNode" />
-              <item name="esentials_tags" type="462c0819:PsiDirectoryNode" />
-              <item name="02_heading_elements" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="starting_html_css" type="b2602c69:ProjectViewProjectNode" />
-              <item name="starting_html_css" type="462c0819:PsiDirectoryNode" />
-              <item name="esentials_tags" type="462c0819:PsiDirectoryNode" />
-              <item name="03_unordered_list_element" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="starting_html_css" type="b2602c69:ProjectViewProjectNode" />
-              <item name="starting_html_css" type="462c0819:PsiDirectoryNode" />
-              <item name="esentials_tags" type="462c0819:PsiDirectoryNode" />
-              <item name="04_ordered_list_element" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -193,9 +180,10 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="300" y="92" width="1521" height="995" extended-state="0" />
+    <frame x="347" y="384" width="1521" height="995" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25354013" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25354013" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -289,6 +277,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
           <caret line="11" column="10" lean-forward="true" selection-start-line="11" selection-start-column="10" selection-end-line="11" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/emmet/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
           <folding />
         </state>
       </provider>
